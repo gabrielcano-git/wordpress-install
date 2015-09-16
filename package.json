@@ -1,0 +1,16 @@
+{
+  "name": "wordpress-install",
+  "description": "Scripts de manipulação e instalação do Wordpress",
+  "version": "0.0.0",
+  "title": "Wordpress Install",
+  "homepage": "?",
+  "main": "Gruntfile.js",
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "wp-cli": "~0.0.5"
+  },
+  "engines": {
+    "node": ">=0.10.1",
+    "npm": ">=1.1.0"
+  }
+}
